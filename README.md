@@ -1,3 +1,5 @@
+# Projekt - Inzynieria Oprogramowania
+
 Dawid Morawiak - Baza danych
 
 Bartek Lauks - Baza danych
