@@ -24,4 +24,4 @@ Wiktor Tekieli - Testy
 
 Natalia Praska - Testy
 
-Karolina Piotrowska - Logo(ASCII) + testy manualne - Kravariss
+Karolina Piotrowska - Logo(ASCII) + testy manualne
