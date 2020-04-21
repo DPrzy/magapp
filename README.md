@@ -4,7 +4,7 @@ Dawid Morawiak - Baza danych
 
 Bartek Lauks - Baza danych
 
-Kamil Widera- CRUD, utworzenie repozytorium
+Kamil Widera- CRUD, utworzenie repozytorium - Peryskop
 
 Arthur Zwolski - ORM
 
@@ -24,4 +24,4 @@ Wiktor Tekieli - Testy
 
 Natalia Praska - Testy
 
-Karolina Piotrowska - Logo(ASCII) + testy manualne
+Karolina Piotrowska - Logo(ASCII) + testy manualne - Kravariss
