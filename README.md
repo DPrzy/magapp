@@ -10,7 +10,7 @@ Arthur Zwolski - ORM
 
 Arkadiusz Czechowski - Deploy
 
-Damian Przysucha - User Interface
+Damian Przysucha - User Interface - DPrzy
 
 Jakub Kasztelan - Dokumentacja
 
